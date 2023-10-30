@@ -1,0 +1,5 @@
+outs:
+- md5: 3abf623659f66f2f8f4242bcd4ea6b31
+  size: 72959165
+  hash: md5
+  path: ocr_model_10.25_finetune_4.pt

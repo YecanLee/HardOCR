@@ -87,3 +87,4 @@ target/
 
 # Mypy cache
 .mypy_cache/
+/ocr_model_10.25_finetune_4.pt
